@@ -2,7 +2,10 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-// the thread pool is fixed
+/**
+ * @author aishuyu
+ * @since 15/05/04
+ */
 public class ExecutorServiceImpl {
 
     private int thread_num;
