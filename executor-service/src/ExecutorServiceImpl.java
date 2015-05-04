@@ -2,10 +2,12 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+
 /**
- * @author aishuyu
- * @since 15/05/04
- */
+ * @author aishuyu(asy5178@163.com)
+ * @date 2015/05/04 16:02:39
+ * @brief use newFixedThreadPool of ExecutorService
+ **/
 public class ExecutorServiceImpl {
 
     private int thread_num;
